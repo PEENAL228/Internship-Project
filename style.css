@@ -1,0 +1,56 @@
+﻿body{
+    background-color: lavender;
+}
+.form {
+    background-color: white;
+    z-index: 1;
+    font-family: Candara, sans-serif;
+    border-radius: 5px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 300px;    
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left : 20px;
+    padding-right: 10px;
+}
+.box{
+    width:280px;
+    border-radius:3px;
+    height: 25px;
+}
+.check{
+    text-align:left;
+}
+.form a{
+    text-align:left;
+}
+.button {
+    float: right;
+    margin-right: 14px;
+    background-color: #3990D3;
+    text-align: center;
+    color: white;
+    text-decoration-style: solid;
+    border-style: none;
+    border-radius: 5px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.registerbutton {
+    
+    margin-right: 14px;
+    width: 280px;
+    background-color: #3990D3;
+    text-align: center;
+    color: blue;
+    text-decoration-style: solid;
+    border-style: none;
+    border-radius: 5px;
+    height: 40px;
+    font-size: 15px;
+    cursor: pointer;
+}
+    
